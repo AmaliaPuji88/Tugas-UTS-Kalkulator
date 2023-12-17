@@ -1,0 +1,31 @@
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\bin\Debug\Visual_Calculator.exe.config
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\bin\Debug\Visual_Calculator.exe
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\bin\Debug\Visual_Calculator.pdb
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.AssemblyReference.cache
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.FrmCalculator.resources
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.Properties.Resources.resources
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.GenerateResource.cache
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.exe
+C:\Users\fhm\Downloads\Graphical_Calculator-master\Graphical_Calculator-master\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.pdb
+D:\Tugas ayang\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.AssemblyReference.cache
+D:\Tugas ayang\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.FrmCalculator.resources
+D:\Tugas ayang\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.Properties.Resources.resources
+D:\Tugas ayang\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.GenerateResource.cache
+D:\Tugas ayang\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.CoreCompileInputs.cache
+D:\Tugas ayang\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.exe
+D:\Tugas ayang\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.pdb
+D:\Tugas Amalia Puji Lestari\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.AssemblyReference.cache
+D:\Tugas Amalia Puji Lestari\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.FrmCalculator.resources
+D:\Tugas Amalia Puji Lestari\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.Properties.Resources.resources
+D:\Tugas Amalia Puji Lestari\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.GenerateResource.cache
+D:\Tugas Amalia Puji Lestari\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.CoreCompileInputs.cache
+D:\Tugas Amalia Puji Lestari\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.exe
+D:\Tugas Amalia Puji Lestari\Kalkulator-Nich\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.pdb
+C:\Users\THINKPAD\Downloads\Visual_Calculator-20231217T025956Z-001\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Downloads\Visual_Calculator-20231217T025956Z-001\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.FrmCalculator.resources
+C:\Users\THINKPAD\Downloads\Visual_Calculator-20231217T025956Z-001\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.Properties.Resources.resources
+C:\Users\THINKPAD\Downloads\Visual_Calculator-20231217T025956Z-001\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.GenerateResource.cache
+C:\Users\THINKPAD\Downloads\Visual_Calculator-20231217T025956Z-001\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Downloads\Visual_Calculator-20231217T025956Z-001\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.exe
+C:\Users\THINKPAD\Downloads\Visual_Calculator-20231217T025956Z-001\Visual_Calculator\Visual_Calculator\obj\Debug\Visual_Calculator.pdb
